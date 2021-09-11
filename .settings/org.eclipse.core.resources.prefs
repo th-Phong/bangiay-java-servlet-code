@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/businessLogic/AccountBL.java=UTF-8
+encoding//src/businessLogic/CategoryBL.java=UTF-8
+encoding//src/businessLogic/ItemBL.java=UTF-8
+encoding//src/businessLogic/OrderBL.java=UTF-8
+encoding//src/businessLogic/ProductBL.java=UTF-8
+encoding//src/controller/ADSuaProductSubmitServlet.java=UTF-8
+encoding//src/controller/AddOrderToSQLServlet.java=UTF-8
+encoding//src/controller/IndexServlet.java=UTF-8
+encoding//src/controller/SearchServlet.java=UTF-8
+encoding//src/javaBean/Item.java=UTF-8
